@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="365f2c55-0711-4a6d-9eee-07aa2d70b507" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YSD_DSA_SEM6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/III_STRINGS/III_DUPLICATE_CHAR_IN_STRING.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/III_STRINGS/II_PALINDROME_OR_NOT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/III_STRINGS/IV_STRING_ROTATION.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/III_STRINGS/I_REVERSE_THE_STRING.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/III_STRINGS/VI_COUNT_AND_SAY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/III_STRINGS/V_VALID_SHUFFLE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/II_MATRIX/III_MEDIAN_IN_A_ROWWISE_SORTED_MATRIX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/II_MATRIX/II_SEARCH_ELEMENT_IN_MATRIX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/II_MATRIX/IV_ROW_WITH_MAXIMUM_NO_OF_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/II_MATRIX/IX_KTH_ELEMENT_IN_MATRIX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/II_MATRIX/I_SPIRALLY_TRAVERSING_A_MATRIX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/II_MATRIX/VII_SPECIFIC_PAIR_IN_MATRIX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/II_MATRIX/V_SORTED_MATRIX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/II_MATRIX/X_COMMON_ELEMENT_IN_ALL_ROWS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/I_ARRAYS/III_Kth_MAX_MIN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/I_ARRAYS/II_MAX_MIN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/I_ARRAYS/IV_SORT_WITHOUT_SORTING_ALGO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/I_ARRAYS/IX_MINIMIZE_THE_MAX_DIFFERENCE_BW_HEIGHTS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/I_ARRAYS/I_REVERSE_ARRAY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/I_ARRAYS/VIII_KADANE_ALGORITHM_MAX_SUM_SUBARRAY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/I_ARRAYS/VII_ROTATE_BY_ONE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/I_ARRAYS/VI_UNION_OF_TWO_SETS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/I_ARRAYS/V_ALL_NEGATIVE_TO_ONESIDE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/I_ARRAYS/XIII_NEXT_PERMUTATION.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/I_ARRAYS/XII_MERGE_INTERVAL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/I_ARRAYS/XIV_COUNT_INVERSIONS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/I_ARRAYS/XIX_FACTORIAL_OF_LARGE_NUMBERS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/I_ARRAYS/XI_fIND_THE_DUPLICATE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/I_ARRAYS/XVIII_REARRANGE_ARRAY_ELEMENT_BY_SIGN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/I_ARRAYS/XVII_COMMON_IN_THREE_SORTED_ARRAY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/I_ARRAYS/XVI_TWO_SUM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/I_ARRAYS/XV_BEST_TIME_TO_BUY_AND_SELL_STOCK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/I_ARRAYS/XXIII_ARRAY_SUBSET.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/I_ARRAYS/XXII_STOCK_BUY_AND_SELL_WITH_UNLIMITED_TRANSACTIONS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/I_ARRAYS/XXIV_TRIPLET_SUM_IN_ARRAY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/I_ARRAYS/XXIX_MINIMUM_SWAPS_AND_K_TOGETHER.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/I_ARRAYS/XXI_ELEMENT_APPEAR_MORE_THAN_nbyk_TIMES.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/I_ARRAYS/XXVIII_THREE_WAY_PARTITIONING.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/I_ARRAYS/XXVII_SMALLEST_SUBARRAY_WITH_SUM_GREATER_THAN_X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/I_ARRAYS/XXVI_CHOCOLATE_DISTRIBUTION_PROBLEM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/I_ARRAYS/XXV_TRAPPING_RAIN_WATER.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/I_ARRAYS/XXXII_MEDIAN_OF_TWO_DIFFERENT_SIZE_SORTED_ARRAYS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/I_ARRAYS/XXXI_MEAN_AND_MEDIAN_OF_AN_ARRAY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/I_ARRAYS/XXX_PALINDROMIC_ARRAY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/I_ARRAYS/XX_LONGEST_CONSECUTIVE_SUBSEQUENCE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_LINEAR_DATA_STRUCTURE/I_ARRAYS_AND_STRINGS/I_ARRAYS/X_MINIMUM_NO_OF_JUMPS_TO_REACH_END_OF_AN_ARRAY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2qyiUwVEwtkD8YG0IfwkfPHRXaY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JAVA_INTERN\YSD_DSA_SEM6\src\I_LINEAR_DATA_STRUCTURE\I_ARRAYS_AND_STRINGS\II_MATRIX" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="X_MINIMUM_NO_OF_JUMPS_TO_REACH_END_OF_AN_ARRAY" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I_LINEAR_DATA_STRUCTURE.I_ARRAYS_AND_STRINGS.I_ARRAYS.X_MINIMUM_NO_OF_JUMPS_TO_REACH_END_OF_AN_ARRAY" />
+      <module name="YSD_DSA_SEM6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="I_LINEAR_DATA_STRUCTURE.I_ARRAYS_AND_STRINGS.I_ARRAYS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.X_MINIMUM_NO_OF_JUMPS_TO_REACH_END_OF_AN_ARRAY" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="365f2c55-0711-4a6d-9eee-07aa2d70b507" name="Changes" comment="" />
+      <created>1735641237614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735641237614</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
