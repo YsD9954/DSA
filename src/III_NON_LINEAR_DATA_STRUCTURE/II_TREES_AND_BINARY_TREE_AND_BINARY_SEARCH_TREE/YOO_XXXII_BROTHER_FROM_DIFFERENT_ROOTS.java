@@ -1,7 +1,0 @@
-package III_NON_LINEAR_DATA_STRUCTURE.II_TREES_AND_BINARY_TREE_AND_BINARY_SEARCH_TREE;
-
-public class YOO_XXXII_BROTHER_FROM_DIFFERENT_ROOTS {
-    public static void main(String[] args) {
-
-    }
-}
