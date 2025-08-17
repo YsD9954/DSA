@@ -1,0 +1,2 @@
+package I_BASIC_ALGORITHMS.II_PREFIX_SUM;public class THEORY {
+}
