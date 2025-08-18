@@ -1,4 +1,4 @@
-package I_BASIC_ALGORITHMS.II_PREFIX_SUM;
+package I_BASIC_ALGORITHMS.II_PREFIX_SUM_AND_SUFFIX_SUM;
 
 //PREFIX SUM..EASY !!
 
@@ -43,7 +43,6 @@ package I_BASIC_ALGORITHMS.II_PREFIX_SUM;
 //        }
 //    }
 //}
-//
 //
 
 
