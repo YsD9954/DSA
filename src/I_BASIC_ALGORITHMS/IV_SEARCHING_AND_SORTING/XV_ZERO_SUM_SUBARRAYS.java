@@ -1,4 +1,4 @@
-package I_BASIC_ALGORITHMS.II_SEARCHING_AND_SORTING;
+package I_BASIC_ALGORITHMS.IV_SEARCHING_AND_SORTING;
 
 public class XV_ZERO_SUM_SUBARRAYS {
     public static void main(String[] args) {

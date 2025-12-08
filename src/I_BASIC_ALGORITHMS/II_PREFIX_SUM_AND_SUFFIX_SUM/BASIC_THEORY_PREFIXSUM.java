@@ -26,7 +26,7 @@ package I_BASIC_ALGORITHMS.II_PREFIX_SUM_AND_SUFFIX_SUM;
 //    pref[i] = pref[i-1]+a[i];
 //
 //LET'S CODE IT!!...
-//class BASIC_THEORY{
+//class BASIC_THEORY_PREFIXSUM{
 //    public static void main(String[] args) {
 //        int A[] = {2,1,3,4,5};
 ////        simply prefix naya arry abanake karo ..ashamr aarray nhi change karna hai toh..

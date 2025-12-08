@@ -1,10 +1,9 @@
 package I_BASIC_ALGORITHMS.VIII_COLLECTION_FRAMEWORK;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Iterator;
 
-public class I_LEARN_ARRAYLIST {
+public class I_LEARN_LIST {
     public static void main(String[] args) {
 //        see in arrray we neeed to define how much size we need ....
 //        int arr[] = new int[34];

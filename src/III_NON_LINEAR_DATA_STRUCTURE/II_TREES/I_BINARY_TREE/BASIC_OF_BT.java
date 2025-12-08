@@ -87,7 +87,7 @@
 
 
 //                                        1.LINKED-LIST REPRESENTATION !!>>>>
-//package III_NON_LINEAR_DATA_STRUCTURE.II_TREES_AND_BINARY_TREE_AND_BINARY_SEARCH_TREE;
+//package III_NON_LINEAR_DATA_STRUCTURE.II_TREES.I_BINARY_TREE;
 //
 //// Node class representing each element of the binary tree
 //class Node {

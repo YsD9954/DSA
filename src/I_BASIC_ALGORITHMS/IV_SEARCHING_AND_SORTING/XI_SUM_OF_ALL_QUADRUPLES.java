@@ -1,4 +1,4 @@
-package I_BASIC_ALGORITHMS.II_SEARCHING_AND_SORTING;
+package I_BASIC_ALGORITHMS.IV_SEARCHING_AND_SORTING;
 
 public class XI_SUM_OF_ALL_QUADRUPLES {
     public static void main(String[] args) {

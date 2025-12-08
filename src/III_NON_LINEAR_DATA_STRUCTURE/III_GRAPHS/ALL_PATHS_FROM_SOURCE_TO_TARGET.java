@@ -15,7 +15,7 @@
 //
 //
 //}
-//public class I_ALL_PATHS_FROM_SOURCE_TO_TARGET {
+//public class ALL_PATHS_FROM_SOURCE_TO_TARGET {
 //
 //    public static void  constructGraphs(ArrayList<Edge> graph[]){
 //        for (int i=0;i<graph.length;i++){

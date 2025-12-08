@@ -1,4 +1,4 @@
-package I_BASIC_ALGORITHMS.II_PREFIX_SUM;
+package I_BASIC_ALGORITHMS.II_PREFIX_SUM_AND_SUFFIX_SUM;
 
 public class I_PRINT_SUM_WITHIN_RANGE_OF_INDEX {
     public static void main(String[] args) {

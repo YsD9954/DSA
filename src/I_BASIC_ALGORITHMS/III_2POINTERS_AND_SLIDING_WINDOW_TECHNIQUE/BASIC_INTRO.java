@@ -285,7 +285,7 @@ package I_BASIC_ALGORITHMS.III_2POINTERS_AND_SLIDING_WINDOW_TECHNIQUE;
 //______________________________________________________________|
 //IN CONCLUSION ..WE CAN IDENTIFY THE PROBLEM LIKE...==>        |
 //  1. IS IT ARRAY OR STRING QUESTION?                          |
-//  2. ARE THEY ASKING FIOR SUBARRAY OR SUBSTRING?              |
+//  2. ARE THEY ASKING FOR SUBARRAY OR SUBSTRING?              |
 //  3. IS FIXED WINDOW OR VARIABLE WINDOW REQUIRED?             |
 //--------------------------------------------------------------|
 

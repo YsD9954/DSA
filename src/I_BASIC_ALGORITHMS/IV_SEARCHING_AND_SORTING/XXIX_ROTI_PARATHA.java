@@ -20,7 +20,7 @@
 //NHI HORA BHAI AAJ..KUCH BORE HORRA HAI...:(...
 
 
-package I_BASIC_ALGORITHMS.II_SEARCHING_AND_SORTING;
+package I_BASIC_ALGORITHMS.IV_SEARCHING_AND_SORTING;
 
 public class XXIX_ROTI_PARATHA {
     public static void main(String[] args) {

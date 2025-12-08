@@ -13,7 +13,7 @@
 //}
 //
 //
-//public class INTRO_TO_TRIES {
+//public class BASICS_OF_TRIES {
 //    static Node root = new Node();
 //    public static void insert(String s){
 //        Node curr = root;

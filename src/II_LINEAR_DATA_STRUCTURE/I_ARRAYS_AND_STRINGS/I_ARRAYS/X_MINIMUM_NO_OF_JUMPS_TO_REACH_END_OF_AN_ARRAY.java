@@ -1,5 +1,7 @@
 package II_LINEAR_DATA_STRUCTURE.I_ARRAYS_AND_STRINGS.I_ARRAYS;
 
+import java.util.ArrayList;
+
 public class X_MINIMUM_NO_OF_JUMPS_TO_REACH_END_OF_AN_ARRAY {
     public static void main(String[] args) {
         int arr[] = {1, 3, 5, 8, 9, 2, 6, 7, 6, 8, 9};

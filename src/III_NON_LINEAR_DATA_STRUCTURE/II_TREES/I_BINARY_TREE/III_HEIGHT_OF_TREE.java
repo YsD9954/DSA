@@ -1,7 +1,7 @@
-//package III_NON_LINEAR_DATA_STRUCTURE.II_TREES_AND_BINARY_TREE_AND_BINARY_SEARCH_TREE;
+//package III_NON_LINEAR_DATA_STRUCTURE.II_TREES.I_BINARY_TREE;
 //
 //
-//import static III_NON_LINEAR_DATA_STRUCTURE.II_TREES_AND_BINARY_TREE_AND_BINARY_SEARCH_TREE.BinaryTree.height;
+//import static III_NON_LINEAR_DATA_STRUCTURE.II_TREES.I_BINARY_TREE.BinaryTree.height;
 //
 //class Node {
 //    int data;
@@ -50,8 +50,6 @@
 //        tree.root.right = new Node(3);
 //        tree.root.left.left = new Node(4);
 //        tree.root.left.right = new Node(5);
-//
 //        System.out.println(height(tree.root));
-//
 //    }
 //}

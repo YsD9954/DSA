@@ -1,4 +1,4 @@
-package I_BASIC_ALGORITHMS.II_PREFIX_SUM;
+package I_BASIC_ALGORITHMS.II_PREFIX_SUM_AND_SUFFIX_SUM;
 
 public class II_DIVIDE_ARRAY_IN_TWO_SUBARRAY_WITH_EQUAL_SUM {
     public static void main(String[] args) {

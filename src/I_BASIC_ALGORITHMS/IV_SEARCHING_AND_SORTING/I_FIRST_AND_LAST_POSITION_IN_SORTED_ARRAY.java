@@ -1,4 +1,4 @@
-package I_BASIC_ALGORITHMS.II_SEARCHING_AND_SORTING;
+package I_BASIC_ALGORITHMS.IV_SEARCHING_AND_SORTING;
 
 public class I_FIRST_AND_LAST_POSITION_IN_SORTED_ARRAY {
     public static void main(String[] args) {

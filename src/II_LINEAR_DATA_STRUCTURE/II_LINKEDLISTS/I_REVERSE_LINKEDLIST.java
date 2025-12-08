@@ -1,4 +1,4 @@
-//package I_LINEAR_DATA_STRUCTURE.II_LINKEDLISTS;
+package II_LINEAR_DATA_STRUCTURE.II_LINKEDLISTS;
 //
 //import java.util.LinkedList;
 //

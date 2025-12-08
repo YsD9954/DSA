@@ -1,4 +1,4 @@
-package I_LINEAR_DATA_STRUCTURE.I_ARRAYS_AND_STRINGS.II_MATRIX;
+package III_NON_LINEAR_DATA_STRUCTURE.I_2D_ARRAY;
 
 public class IV_ROW_WITH_MAXIMUM_NO_OF_1 {
     public static void main(String[] args) {

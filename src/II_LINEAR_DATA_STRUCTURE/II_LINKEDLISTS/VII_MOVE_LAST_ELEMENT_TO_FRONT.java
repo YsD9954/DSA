@@ -21,7 +21,7 @@
 //        System.out.print("null");
 //    }
 //
-//    static void moveLtoF(Node head){
+//    static void moveLtoF(Node head){00
 //        Node temp = head;
 //        while (temp.next.next!=null){
 //            temp=temp.next;

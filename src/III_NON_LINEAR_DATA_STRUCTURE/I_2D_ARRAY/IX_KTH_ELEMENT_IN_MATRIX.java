@@ -1,4 +1,4 @@
-package I_LINEAR_DATA_STRUCTURE.I_ARRAYS_AND_STRINGS.II_MATRIX;
+package III_NON_LINEAR_DATA_STRUCTURE.I_2D_ARRAY;
 
 public class IX_KTH_ELEMENT_IN_MATRIX {
     public static void main(String[] args) {

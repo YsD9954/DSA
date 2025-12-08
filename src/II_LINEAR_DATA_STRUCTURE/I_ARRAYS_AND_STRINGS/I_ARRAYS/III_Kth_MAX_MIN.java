@@ -1,5 +1,5 @@
 package II_LINEAR_DATA_STRUCTURE.I_ARRAYS_AND_STRINGS.I_ARRAYS;
-
+import java.util.*;
 public class III_Kth_MAX_MIN {
     public static void main(String[] args) {
         int arr[] = {1,4,5,2,3};
@@ -10,7 +10,6 @@ public class III_Kth_MAX_MIN {
                     int temp = arr[i];
                     arr[i]=arr[j];
                     arr[j]=temp;
-
                 }
             }
         }
@@ -18,6 +17,9 @@ public class III_Kth_MAX_MIN {
 //            System.out.print(arr[i]);
 //
 //        }
+
+        //hum direct function se bhi sort kar sakte !!
+//        Arrays.sort(arr);
 
         int k = 2;
         System.out.println("K = "+ k);

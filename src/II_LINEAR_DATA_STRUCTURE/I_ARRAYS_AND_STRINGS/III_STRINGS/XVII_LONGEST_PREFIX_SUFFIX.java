@@ -2,12 +2,12 @@ package II_LINEAR_DATA_STRUCTURE.I_ARRAYS_AND_STRINGS.III_STRINGS;
 
 public class XVII_LONGEST_PREFIX_SUFFIX {
     public static void main(String[] args) {
-        String s = "aabndaab";
+        String s = "aabbnnaabb";
         String prefix = "";
         String suffix = "";
         int maxLen = 0;
 
-        for (int i = 0; i < s.length() - 1; i++) {
+        for (int i = 0; i < s.length()/2; i++) {
             prefix = s.substring(0, i + 1);
             suffix = s.substring(s.length() - i - 1);
 
