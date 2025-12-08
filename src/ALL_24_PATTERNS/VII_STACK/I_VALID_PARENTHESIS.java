@@ -1,0 +1,2 @@
+package ALL_24_PATTERNS.VII_STACK;public class I_VALID_PARENTHESIS {
+}
