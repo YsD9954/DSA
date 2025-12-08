@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="365f2c55-0711-4a6d-9eee-07aa2d70b507" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/I_BASIC_ALGORITHMS/V_RECURSION/II_BINARY_SEARCH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_BASIC_ALGORITHMS/V_RECURSION/IIi_PRINT_ALL_SUBSETS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/I_BASIC_ALGORITHMS/V_RECURSION/I_BASIC_STUFF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I_BASIC_ALGORITHMS/V_RECURSION/I_BASIC_STUFF.java" afterDir="false" />
     </list>
