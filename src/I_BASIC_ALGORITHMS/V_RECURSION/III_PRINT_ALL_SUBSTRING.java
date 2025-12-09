@@ -1,6 +1,6 @@
 package I_BASIC_ALGORITHMS.V_RECURSION;
 
-public class III_PRINT_ALL_SUBSETS {
+public class III_PRINT_ALL_SUBSTRING {
     public static void subsets(int i, int j, String s){
         if(i>=s.length()){//sirf i check karo as j toh jata hi rehta hai!
             return;
