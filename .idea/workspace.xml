@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="365f2c55-0711-4a6d-9eee-07aa2d70b507" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I_BASIC_ALGORITHMS/V_RECURSION/VII_N_QUEENS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I_BASIC_ALGORITHMS/V_RECURSION/VII_N_QUEENS.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,7 @@
       <recent name="D:\JAVA_INTERN\YSD_DSA_SEM6\src\I_LINEAR_DATA_STRUCTURE\I_ARRAYS_AND_STRINGS\II_MATRIX" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="YSD_DSA_SEM6" />
