@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="365f2c55-0711-4a6d-9eee-07aa2d70b507" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/I_BASIC_ALGORITHMS/V_RECURSION/XI_PALINDROM_PARTITIONING.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
