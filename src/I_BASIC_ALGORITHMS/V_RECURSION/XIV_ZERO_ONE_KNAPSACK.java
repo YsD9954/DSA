@@ -1,6 +1,6 @@
 package I_BASIC_ALGORITHMS.V_RECURSION;
 
-public class XIX_ZERO_ONE_KNAPSACK {
+public class XIV_ZERO_ONE_KNAPSACK {
     public static int o1knap(int W,int[] val,int[] wt,int valsum,int wtsum,int i, int n){
         if(wtsum>W){ // first ye check karp...condition ka order matter karta hai!!
             return Integer.MIN_VALUE;//so that max val na ho!

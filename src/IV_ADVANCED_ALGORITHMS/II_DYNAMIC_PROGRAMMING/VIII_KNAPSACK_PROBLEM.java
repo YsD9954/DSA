@@ -48,12 +48,12 @@ public class VIII_KNAPSACK_PROBLEM {
 
         for (int i = 1; i <= n; i++) {
             for (int w = 0; w <= W; w++) {
-                if (wt[i-1] <= w) {
-                    dp[i][w] = Math.max(
+                if (wt[i-1] <= w) { // include kar sakte hai...
+                    dp[i][w] = Math.max( // check ki max hai kya nhi toh previous toh hai hi...
                             val[i-1] + dp[i-1][w - wt[i-1]],
                             dp[i-1][w]
                     );
-                } else {
+                } else { // include nhi kar sakte..
                     dp[i][w] = dp[i-1][w];
                 }
             }
