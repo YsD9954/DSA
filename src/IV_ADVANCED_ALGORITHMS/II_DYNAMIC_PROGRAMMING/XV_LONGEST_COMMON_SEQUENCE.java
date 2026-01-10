@@ -1,6 +1,6 @@
 package IV_ADVANCED_ALGORITHMS.II_DYNAMIC_PROGRAMMING;
 
-public class XV_PRINT_LONGEST_COMMON_SEQUENCE{
+public class XV_LONGEST_COMMON_SEQUENCE{
     public static int dp[][];
     public static int lcs(String x, String y, int i, int j) {
         if(i==0|| j==0){
